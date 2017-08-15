@@ -1,0 +1,30 @@
+{
+  "name": "google-drive-batch-requests",
+  "version": "0.0.1",
+  "description": "Sends batch requests to Google Drive v3 REST API",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PriyankaPathak/google-drive-batch-requests.git"
+  },
+  "keywords": [
+    "batch",
+    "google",
+    "google drive",
+    "apis",
+    "google-batch",
+    "batch-google",
+    "googleapi",
+    "rest",
+    "api",
+    "batch-call"
+  ],
+  "author": {
+    "name": "Priyanka Pathak",
+    "email": "priyankapathak0811@gmail.com"
+  },
+  "licenses": "MIT",
+  "dependencies": {
+    "http-string-parser": "0.0.4",
+    "request": "^2.55.0"
+  }
+}
